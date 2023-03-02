@@ -68,3 +68,24 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Requirements
+To create a React app, you can follow the following steps:
+
+1. Install Node.js: React requires Node.js to run. You can download it from the official website and install it on your computer.
+
+2. Install create-react-app: create-react-app is an official tool for creating React apps. To install it, open the terminal and type the following command:
+
+npm install -g create-react-app
+
+3. Create a new project: once create-react-app is installed, you can create a new React project by typing the following command in the terminal:
+create-react-app my-app
+
+This will create a new folder called "my-app" with all the files and dependencies you need to start developing your project.
+
+4. Start the app: To start the React app, type the following command in the terminal:
+cd my-app npm start
+
+This will start a local server and automatically open your application in the browser.
+
+5. Start developing: with the React application running, you can start developing your project. The main files are located in the "src" folder, where you will find the "index.js" file, which is the entry point for the application.
